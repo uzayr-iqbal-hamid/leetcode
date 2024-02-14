@@ -1,0 +1,11 @@
+class Solution:
+    def missingNumber(self, nums: List[int]) -> int:
+        n = len(nums)
+
+        ans = []
+        for num in range(0, n+1):
+            ans.append(num)
+
+        for num in ans:
+            if num not in nums:
+                return num
