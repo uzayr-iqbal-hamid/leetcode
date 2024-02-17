@@ -1,5 +1,6 @@
 class Solution:
     def incremovableSubarrayCount(self, nums: List[int]) -> int:
+
         n = len(nums) #length of the array nums
         begin_from = self.beginning(nums) #this is the beginning index
 
