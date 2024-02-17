@@ -1,6 +1,5 @@
 class Solution:
     def minimizeSet(self, divisor1: int, divisor2: int, uniqueCnt1: int, uniqueCnt2: int) -> int:
-
         LCM = math.lcm(divisor1, divisor2)
         l = 0
         r = 2**31 - 1
