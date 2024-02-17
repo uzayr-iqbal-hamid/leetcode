@@ -8,5 +8,6 @@
 
 > I am open to any suggestions, remarks, critiques. And I think that will be really helpful for my growth.
 
-Leetcode profile: https://leetcode.com/hamiduzayr/
-LinkedIn profile: https://www.linkedin.com/in/uzayriqbal/
+> Leetcode profile: https://leetcode.com/hamiduzayr/
+
+> LinkedIn profile: https://www.linkedin.com/in/uzayriqbal/
