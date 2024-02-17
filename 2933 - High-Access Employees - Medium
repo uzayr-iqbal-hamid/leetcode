@@ -20,4 +20,5 @@ class Solution:
                 
                 if len(dQ) >= 3:
                     high_access.append(name)
+
         return high_access
