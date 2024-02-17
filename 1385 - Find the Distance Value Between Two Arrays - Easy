@@ -12,4 +12,5 @@ class Solution:
                 if count == len(arr2):
                     distance += 1
             count = 0
+
         return distance
