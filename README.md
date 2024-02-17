@@ -2,7 +2,7 @@
 
 > This is a repository consisting of all the leetcode problems I have solved.
 
-> I am constantly learning fundamentals and core concepts to make my coding more efficient.
+> While my programs are not the best, I am constantly learning fundamentals and core concepts to make my coding more efficient.
 
 > You can always come to my repository for reference or help while tackling the problems on leetcode, for an extra point of perspective and approach.
 
