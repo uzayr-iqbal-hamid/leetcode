@@ -1,7 +1,6 @@
 class Solution:
     def findTheWinner(self, n: int, k: int) -> int:
         friends = [False]*n
-
         count = n
 
         index = 0
