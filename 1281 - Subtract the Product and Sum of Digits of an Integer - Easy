@@ -6,4 +6,5 @@ class Solution:
         for i in n:
             sumOfDigits += int(i)
             productOfDigits *= int(i)
+
         return productOfDigits - sumOfDigits
