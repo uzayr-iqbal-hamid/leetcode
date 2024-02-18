@@ -1,21 +1,10 @@
 class Solution:
     def findTheWinner(self, n: int, k: int) -> int:
-        friends = [False]*n
-        count = n
-
-        index = 0
-
-        while count > 1:
-            for i in range(k):
-                while friends[index % n]:
-                    index += 1
-                index += 1
-            
-            friends[(index - 1) % n] = True
-            count -= 1
+    
+        def remove_loser(n, k):
+            ans = 0
+            for i in range(2, n + 1):
+                ans = (ans + k) % i
+            return ans
         
-        index = 0
-        while friends[index]:
-            index += 1
-
-        return index + 1
+        return remove_loser(n, k) + 1
