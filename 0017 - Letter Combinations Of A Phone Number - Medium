@@ -18,4 +18,5 @@ class Solution:
 
         for digit in digits[1:]:
             letters = [old+new for old in letters for new in list(map[digit])]
+
         return letters
