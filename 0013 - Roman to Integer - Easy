@@ -13,4 +13,5 @@ class Solution:
                 number -= roman[s[i]]
             else:
                 number += roman[s[i]]
+
         return number
