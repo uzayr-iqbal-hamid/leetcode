@@ -13,4 +13,5 @@ class Solution:
             if nums[i] == -1:
                 nums.pop()
             i -= 1
+
         nums.sort()
