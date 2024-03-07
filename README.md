@@ -1,13 +1,24 @@
-# LeetCode Solved Problems
+# LeetCode Problem Solutions
 
-> This is a repository consisting of all the leetcode problems I have solved.
+Welcome to my repository of LeetCode problem solutions! Here you'll find solutions to various LeetCode problems that I have solved over time.
 
-> While my programs are not the best, I am constantly learning fundamentals and core concepts to make my coding more efficient.
+## About
 
-> You can always come to my repository for reference or help while tackling the problems on leetcode, for an extra point of perspective and approach.
+As a constantly learning programmer, I use LeetCode as a platform to practice problem-solving and improve my coding skills. While my solutions may not always be the most efficient, I strive to understand the fundamental concepts behind each problem and apply them to my solutions.
 
-> I am open to any suggestions, remarks, critiques. And I think that will be really helpful for my growth.
+## How to Use
 
-> Leetcode profile: https://leetcode.com/hamiduzayr/
+Feel free to explore this repository for reference or assistance when tackling LeetCode problems. Each solution is accompanied by comments and explanations to provide insights into the thought process behind the solution.
 
-> LinkedIn profile: https://www.linkedin.com/in/uzayriqbal/
+## Feedback
+
+I'm always open to feedback, suggestions, and critiques. Your input can greatly contribute to my growth as a programmer. If you have any thoughts or ideas on how I can improve my solutions or approach, please don't hesitate to reach out.
+
+## Connect
+
+You can find me on LeetCode and LinkedIn:
+
+- LeetCode Profile: [hamiduzayr](https://leetcode.com/hamiduzayr/)
+- LinkedIn Profile: [Uzayr Iqbal](https://www.linkedin.com/in/uzayriqbal/)
+
+Happy coding! 🚀
