@@ -7,4 +7,5 @@ class Solution:
                     indices.append(i)
                     indices.append(j)
                     break
+
         return indices
