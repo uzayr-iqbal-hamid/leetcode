@@ -17,5 +17,6 @@ struct ListNode* deleteDuplicates(struct ListNode* head) {
             cur = cur->next;
         }
     }
+
     return head;
 }
