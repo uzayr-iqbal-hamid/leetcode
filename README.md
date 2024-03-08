@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=LeetCode+problem+solutions;Python3;C)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=LeetCode+problem+solutions;Python3,+C)](https://git.io/typing-svg)
 
 Welcome to my repository of LeetCode problem solutions! Here you'll find solutions to various LeetCode problems that I have solved over time.
 
