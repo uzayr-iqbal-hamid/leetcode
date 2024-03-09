@@ -1,5 +1,6 @@
 class Solution:
     def majorityElement(self, nums: List[int]) -> int:
+
         count = collections.Counter(nums)
         majority_element = len(nums) / 2
 
