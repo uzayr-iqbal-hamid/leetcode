@@ -24,5 +24,6 @@ bool hasCycle(struct ListNode *head) {
         ptr1 = ptr1->next;
         ptr2 = ptr2->next->next;
     }
+
     return true;
 }
