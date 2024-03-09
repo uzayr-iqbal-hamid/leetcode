@@ -6,4 +6,5 @@ class Solution:
                 return False
             count.add(n)
             n = sum(int(digit) ** 2 for digit in str(n))
+
         return True
