@@ -9,4 +9,5 @@ class Solution:
                 answer[i] = "Buzz"
             elif int(answer[i]) % 3 == 0:
                 answer[i] = "Fizz"
+
         return answer
