@@ -8,3 +8,10 @@ class Solution:
 
         return count - add
 
+# Alternate solution:
+
+class Solution:
+    def missingNumber(self, nums: List[int]) -> int:
+        total = reduce(lambda x, y: x + y, range(1, len(nums)+1))
+
+        return total - sum(nums)
