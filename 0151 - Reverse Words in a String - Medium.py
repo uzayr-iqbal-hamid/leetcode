@@ -40,3 +40,11 @@ class Solution:
 
         
         return " ".join(res)
+
+# Alternate Solution
+
+class Solution:
+    def reverseWords(self, s: str) -> str:
+        stripped = s.strip().split()
+        stripped.reverse()
+        return " ".join(stripped)
