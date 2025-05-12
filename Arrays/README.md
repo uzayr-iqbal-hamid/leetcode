@@ -3,6 +3,7 @@
 <details>
   <summary>1. Two Sum</summary>
   ```java
+  
     HashMap<Integer, Integer> map = new HashMap<>();
 
     for (int i = 0; i < nums.length; i++) {
