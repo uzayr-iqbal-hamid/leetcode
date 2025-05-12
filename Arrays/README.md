@@ -1,7 +1,9 @@
 ## Easy
 
 1. Two Sum
-```java
+<details>
+  <summary>Code!</summary>
+  ```java
 HashMap<Integer, Integer> map = new HashMap<>();
 
     for (int i = 0; i < nums.length; i++) {
@@ -15,7 +17,10 @@ HashMap<Integer, Integer> map = new HashMap<>();
     }
 
 return new int[0];
-```
+```  
+</details>
+
+
 Time Complexity:
 ```bash
 O(N)
