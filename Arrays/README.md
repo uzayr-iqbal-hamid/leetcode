@@ -17,8 +17,6 @@ HashMap<Integer, Integer> map = new HashMap<>();
 
 return new int[0];
 ```  
-</details>
-
 
 Time Complexity:
 ```bash
