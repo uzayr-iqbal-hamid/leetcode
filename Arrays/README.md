@@ -1,8 +1,7 @@
 ## Easy
 
-1. Two Sum
 <details>
-  <summary>Code!</summary>
+  <summary>1. Two Sum</summary>
   ```java
 HashMap<Integer, Integer> map = new HashMap<>();
 
@@ -25,3 +24,4 @@ Time Complexity:
 ```bash
 O(N)
 ```
+  </details>
